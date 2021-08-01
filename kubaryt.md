@@ -19,4 +19,5 @@ Template created by Kubaryt.
     Neutral PvP combat: No
     Restarts: 2x111 1x112
     Additional rules:
-    Choosing a town for computer players: the red player chooses the town for the brown and purple players, and the blue player for the green and orange players, one town cannot be selected twice. 
+    Choosing a town for computer players: the red player chooses the town for the brown and purple players,
+    and the blue player for the green and orange players, one town cannot be selected twice. 
