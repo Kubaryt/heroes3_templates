@@ -22,3 +22,4 @@ Template created by Kubaryt.
     Choosing a town for computer players: the red player chooses the town for the brown and purple players,
     and the blue player for the green and orange players, one town cannot be selected twice. The rest of 
     the computer players have random towns.
+
