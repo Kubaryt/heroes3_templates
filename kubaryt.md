@@ -20,5 +20,5 @@ Template created by Kubaryt.
     Restarts: 2x111 1x112
     Additional rules:
     Choosing a town for computer players: the red player chooses the town for the brown and purple players,
-    and the blue player for the green and orange players, one town cannot be selected twice. The rest of 
+    and the blue player for the green and orange players. One town cannot be selected twice. The rest of 
     the computer players have random towns.
