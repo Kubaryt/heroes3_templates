@@ -6,7 +6,7 @@ Template created by Kubaryt.
     Map size: XL
     Underground: Yes
     Human or computer players: 2
-    Computer players: 4
+    Computer players: 6
     Teams: None
     Road type: Only medium (middle option)
     Water content: None
