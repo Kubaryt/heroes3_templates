@@ -3,6 +3,7 @@
 Template created by Kubaryt.
 
 Preffered settings:
+
     Map size:L
     Underground: Yes
     Human or computer players: 2
