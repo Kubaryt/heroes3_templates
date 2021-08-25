@@ -1,8 +1,8 @@
 ### Kubaryt Template
 
-##Template created by Kubaryt
+## Template created by Kubaryt
 
-#Preffered settings:
+# Preffered settings:
 
 Map size: XL
 Underground: Yes
@@ -24,7 +24,7 @@ Choosing a town for computer players: the red player chooses the town for the br
 and the blue player for the green and orange players, one town cannot be selected twice. The rest of 
 the computer players have random towns.
     
-#Template specifiacation:
+# Template specifiacation:
 
 1. Zones 39 and 43 are players starting zones.
     - Treasure values: (500 - 3000 9, 3000 - 6000 6, 10000 - 15000 1).
@@ -94,7 +94,7 @@ the computer players have random towns.
     - There are two mines of Mercury, Sulfur, Crystal, Gems.
     - Terrain is wasteland.
 
-#Banned spells:
+# Banned spells:
  - Summon boat
  - Scuttle boat
  - Water walk
