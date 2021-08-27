@@ -99,4 +99,4 @@ the computer players have random towns.
  - Scuttle boat
  - Water walk
     
-Combat turns limit: 100
+- Combat turns limit: 100
