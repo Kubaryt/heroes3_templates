@@ -52,7 +52,7 @@
     - Terrain is corresponding to the town.
     - The monsters are weak.
     - There are five mines of gold.
-4. Zones 12, 14 and 16 are pass zones.
+4. Zones 12 and 14 are pass zones.
     - Treasure values: (500 - 3000 9, 3000 - 6000 6, 10000 - 15000 1).
     - Terrain is random.
     - The monsters are average.
@@ -61,7 +61,7 @@
     - Terrain is random.
     - The monsters are weak.
     - There are five mines of gold.
-6. Zones 2 and 13 are treasure zones.
+6. Zones 2, 4 and 13 are treasure zones.
     - Treasure values: (1500 - 7000 25, 10000 - 15000 6, 15000 - 20000 1).
     - There are two towns without fort.
     - Terrain is corresponding to the town.
