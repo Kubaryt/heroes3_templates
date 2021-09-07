@@ -19,3 +19,5 @@
 - Simultaneous turns: Yes, to 115
 - Neutral PvP combat: No
 - Restarts: 1x111
+
+### Template specification
