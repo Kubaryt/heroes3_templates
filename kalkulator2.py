@@ -48,4 +48,3 @@ if DZIALANIA == 5:
     a = float(input('Wpisz pierwsza liczbe '))
     c = math.log( a )
     print('Wynik to: %f' % c)
-
