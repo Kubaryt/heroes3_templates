@@ -6,46 +6,38 @@ while DZIALANIA >= 5:
 
 if DZIALANIA == 0:
 
-    a = int(input('Wpisz pierwsza liczbe '))
-    b = int(input('Wpisz druga liczbe '))
+    a = float(input('Wpisz pierwsza liczbe '))
+    b = float(input('Wpisz druga liczbe '))
     c = a + b
-    print('Wynik dodawania to: %g' %  c )
+    print('Wynik dodawania to: %f' %  c )
 
 if DZIALANIA == 1:
 
-    a = int(input('Wpisz pierwsza liczbe '))
-    b = int(input('Wpisz druga liczbe '))
+    a = float(input('Wpisz pierwsza liczbe '))
+    b = float(input('Wpisz druga liczbe '))
     c = a - b
-    print('Wynik odejmowania to: %g' %  c )
+    print('Wynik odejmowania to: %f' %  c )
 
 if DZIALANIA == 2:
 
-    a = int(input('Wpisz pierwsza liczbe '))
-    b = int(input('Wpisz druga liczbe '))
+    a = float(input('Wpisz pierwsza liczbe '))
+    b = float(input('Wpisz druga liczbe '))
     c = a * b
-    print('Wynik mnozenia to: %g' %  c )
+    print('Wynik mnozenia to: %f' %  c )
 if DZIALANIA == 3:
 
-    a = int(input('Wpisz pierwsza liczbe '))
+    a = float(input('Wpisz pierwsza liczbe '))
     b = 0
     while b == 0:
     
         b = int(input('Wpisz druga liczbe '))
     
-        c = a / b
-        print('Wynik dzielenia to: %g' % c )
-    
-    if b == 0:
-    
-        print('Nie dziel przez zero ')
+    c = a / b
+    print('Wynik dzielenia to: %f' % c )
 
 if DZIALANIA == 4:
 
-    a = int(input('Wpisz pierwsza liczbe '))
-    b = int(input('Wpisz druga liczbe '))
+    a = float(input('Wpisz pierwsza liczbe '))
+    b = float(input('Wpisz druga liczbe '))
     c = a ** b
-    print('Wynik potegowania to: %g' % c)
-
-if DZIALANIA >= 5:
-
-    print('Wprowadzono zla liczbe ')
+    print('Wynik potegowania to: %f' % c)
