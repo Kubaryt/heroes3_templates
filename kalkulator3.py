@@ -1,12 +1,12 @@
 import math
-DZIALANIA = 6
+DZIALANIA = 7
 
 a = float(input('Wpisz pierwsza liczbe '))
 b = float(input('Wpisz druga liczbe '))
 
-while DZIALANIA >= 6:
+while DZIALANIA >= 7:
 
-    DZIALANIA = int(input('Wybierz dzialanie: 0 - Dodawanie | 1 - Odejmowanie | 2 - Mnozenie | 3 - Dzielenie | 4 - Potegowanie | 5 - Logarytm naturalny '))
+    DZIALANIA = int(input('Wybierz dzialanie: 0 - Dodawanie | 1 - Odejmowanie | 2 - Mnozenie | 3 - Dzielenie | 4 - Potegowanie | 5 - Logarytm naturalny | 6 - Pierwiastek kwadratowy '))
 
 if DZIALANIA == 0:
 
