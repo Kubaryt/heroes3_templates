@@ -1,4 +1,4 @@
-# Kubaryt Template
+# Kubaryt Template (Out of date)
 
 ## Template created by Kubaryt
 
