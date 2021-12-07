@@ -9,3 +9,5 @@ All of the following templates are licensed under [CC-BY-SA 4.0](https://github.
 *[LKubaryt](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/LKubaryt)
 
 *[mt_mKubaryt](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/mt_mKubaryt)
+
+*[mt_Kubaryt](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/mt_Kubaryt)
