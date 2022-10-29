@@ -116,14 +116,15 @@ and the blue player for the green and teal players, one town cannot be selected 
     - There are two mines of mercury, sulfur, crystal and gems and three of gold
 
 ### Object changes on whole map:
-    - Griffin Conservatory
-        * Frequency: 300
-    - Dragon Fly Hive
-        * Frequency: 300
-    - Wolf Raider Picket
-        * Frequency: 270
-    - Experimental Shop
-        * Frequency: 280
+    
+1. Griffin Conservatory
+    - Frequency: 300
+2. Dragon Fly Hive
+    - Frequency: 300
+3. Wolf Raider Picket
+    - Frequency: 270
+4. Experimental Shop
+    - Frequency: 280
 
 ### Banned spells:
  - Summon boat
