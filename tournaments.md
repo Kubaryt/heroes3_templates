@@ -8,5 +8,7 @@
 - Sapphire Battleground - Judge 22 I - 7 VI 2023
 - Kubaryt League - Main Judge from 1 IV 2023 to now
 - Taste of Haste - ~K-Support~ Judge 4 IV - 20 V 2023
-- Matchupy Banowane - Organizer from 19 IV 2023 to now
+- Matchupy Banowane - Organizer from 19 IV 2023 - 26 VII 2023
 - Liga Heroes - Central Committee member from 19 V 2023 to now
+- Highroll Holiday - Judge from 29 VII 2023 (de iure 08 VII 2023) to now
+- XL+yoU - Committee Chef from 1 VIII 2023 to now
