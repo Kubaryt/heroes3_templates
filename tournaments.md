@@ -12,3 +12,4 @@
 - Liga Heroes - Central Committee member from 19 V 2023 to now
 - Highroll Holiday - Judge from 29 VII 2023 (de iure 08 VII 2023) to now
 - XL+yoU - Committee Chef from 1 VIII 2023 to now
+- BambiCup - Judge from 23 IX 2023 to  ow
