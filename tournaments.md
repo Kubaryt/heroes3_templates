@@ -6,7 +6,7 @@
 - 1mmt - Judge 17 VI - 18 IX 2022
 - Matchupy Planowane - Judge 23 X 2022 - 23 IV 2023
 - Sapphire Battleground - Judge 22 I - 7 VI 2023
-- Kubaryt League - Main Judge from 1 IV 2023 to now
+- Kubaryt League - Main Judge from 1 IV 2023 to 2 X 2023
 - Taste of Haste - ~K-Support~ Judge 4 IV - 20 V 2023
 - Matchupy Banowane - Organizer from 19 IV 2023 - 26 VII 2023
 - Liga Heroes - Central Committee member from 19 V 2023 to now
