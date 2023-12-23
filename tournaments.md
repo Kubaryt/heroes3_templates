@@ -14,4 +14,5 @@
 - XL+yoU - Committee Chef from 1 VIII 2023 to now
 - BambiCup - Judge from 23 IX 2023 to now
 - Flexibility Showdown - Judge from 25 XI 2023 to now
-- Literally Anything - Judge from 27 XI to now
+- Literally Anything - Judge from 27 XI 2023 to now
+- H3gg - Staff Member from 23 XII 2023 to now
