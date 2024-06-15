@@ -5,6 +5,8 @@
 I am young, polish programmer. I have few months years of programming experience!\
 I am mainly working in JS and Django. I love linux ❤️\
 I am also Heroes III tournament organizer, template maker, shoutcaster and stream host.\
+Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/blob/kubaryt/tournaments.md.
+
 ### Heroes III organization that I am part of:
 - H3gg - staff member and [H3gg organization on Github](https://github.com/H3-gg) owner,
 - Liga Heroes - Central Committee member.
