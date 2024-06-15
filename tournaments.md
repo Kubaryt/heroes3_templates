@@ -15,12 +15,12 @@
   - Season 7 Champions League - Organizer, Judge
   - Season 8 Champions League - Organizer, Judge
 - Highroll Holiday - Judge from 29 VII 2023 (de iure 08 VII 2023) to 31 IX 2023
-- XL+yoU - Committee Chef from 1 VIII 2023 to 19 I 2024
+- XL+yoU 1, 2 - Committee Chef/Committee Chairman 1 VIII 2023 - 19 I 2024, 14 VI 2024 to now
 - BambiCup - Judge from 23 IX 2023 to 12 III 2024
-- Flexibility Showdown - Judge from 25 XI 2023 to now
-- Literally Anything - Judge from 27 XI 2023 to now
+- Flexibility Showdown - Judge from 25 XI 2023 to 31 III 2024,
+- Literally Anything - Judge from 27 XI 2023 to 8 VI 2024,
 - H3gg - Staff Member from 23 XII 2023 to now:
-  - Puchar Zwycięzców Pucharów - Organizer and Judge from 26 XII 2023 to now,
-  - Wasteland Story - Organizer and Judge from 9 I 2024 to now,
+  - Puchar Zwycięzców Pucharów - Organizer and Judge from 26 XII 2023 to 14 II 2024,
+  - Wasteland Story - Organizer and Judge from 9 I 2024 to 31 III 2024,
   - XXV Anniversary Championships Warmup - Organizer, Judge from 25 II 2024 to 5 V 2024
   - XXV Anniversary Championship by Lenovo Legion - Organizer, Judge
