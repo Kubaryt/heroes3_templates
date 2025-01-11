@@ -15,7 +15,7 @@ Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/
 [GwardiaHub](https://github.com/Gwardia-Czapli/GwardiaHub) - All-in-one webite for school assistance and efficient management of Gwardia activities.\
 [H3templatesWebsiteDjango](https://github.com/Kubaryt/H3templatesWebsiteDjango) - Website with all popular Heroes III HotA templates, written in Django.\
 [KT_Rulings](https://github.com/Kubaryt/KT_Rulings) - Simple website for generating rulings according to rules from [Kubaryt Cup 4 Rulings Regulations](https://github.com/KubarytTournaments/KubarytCup/blob/English/Documents/KC4/Rulings_Regulations.md).\
-[LandsatWebTracker](https://github.com/EKK-Ingarden/LandsatWebTracker) - Project for hackaton NasaSpaceApps 2024. I am (mainly, did 2 backend issues) frontend dev in this project (yes I hate myself).
+[Hack4KrakSite](https://github.com/Hack4Krak/Hack4KrakSite) - Project for Hack4Krak CTF, I am mainly backend dev there.
 
 ## 📯 How to reach me:
 Talk to me on Discord: kubaryt\
